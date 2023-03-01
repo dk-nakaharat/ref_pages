@@ -15,7 +15,7 @@
 :docname: = asciidocの使い方
 :author: asciidoc事業部 開発１グループ
 :revnumber: 0.1
-:revdate: 2017/10/25
+:revdate: 2017/10/26
 
 = asciidocの使い方
 
