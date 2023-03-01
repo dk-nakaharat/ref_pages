@@ -15,7 +15,7 @@
 :docname: = asciidocの使い方
 :author: Daikin Nakahara
 :revnumber: 0.1
-:revdate: 2023/03/03
+:revdate: 2023/03/05
 
 = asciidocの使い方
 
