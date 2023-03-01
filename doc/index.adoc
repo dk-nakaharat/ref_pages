@@ -31,7 +31,7 @@ asciidocとは [blue]#軽量マークアップ言語# です
 .コードハイライト
 [source, json]
 {
-  "hoge" : "fuga",
+  "hoge1" : "fuga1",
   "foo" : [1,2,3]
 }
 
