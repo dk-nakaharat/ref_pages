@@ -13,9 +13,9 @@
 :table-caption: 表
 :figure-caption: 図
 :docname: = asciidocの使い方
-:author: asciidoc事業部 開発１グループ
+:author: Daikin
 :revnumber: 0.1
-:revdate: 2023/03/01
+:revdate: 2023/03/03
 
 = asciidocの使い方
 
