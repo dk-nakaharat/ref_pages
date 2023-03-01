@@ -23,7 +23,7 @@
 
 asciidocとは [blue]#軽量マークアップ言語# です。
 
-詳しくは<<can_asciidoc,asciidocでできること>>を見ること
+詳しくは<<can_asciidoc,asciidocでできること>>をなんで
 
 [[can_asciidoc]]
 == asciidocでできること
